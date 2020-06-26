@@ -1,0 +1,57 @@
+name: Hugo Delahousse
+headline: Looking for an **Full-Time position ** in **Software Engineering** starting in **Autumn 2020**
+
+contact:
+  - icon: mail
+    text: hugo.delahousse@gmail.com
+  - icon: phone
+    text: "+33 6 99 04 78 84"
+  - icon: github
+    text: hugodelahousse
+  - icon: linkdin
+    text: hugo-delahousse
+
+education:
+  - name: EPITA - École Pour l'Informatique et les Techniques Avancées
+    location: Paris
+    startDate: 2015-09-01
+    endDate: 2020-10-01
+    text: Master / Engineering degree in Computer Science specialized in Full Stack development and DevOps.
+
+  - name: Boston University
+    location: Boston
+    startDate: 2017-01-01
+    endDate: 2020-05-01
+    text: Exchange program, studying Computer Science
+
+experience:
+  - name: Teaching Assistant at EPITA
+    text: Teaching C, C++, Python, Java, SQL and project management to third year students.
+    location: Paris
+    startDate: 2017-09-01
+
+  - name: Infrastructure Developer at EPITA
+    text: >
+      Responsible forthe development of the student's
+      intranet in Python and TypeScript, including the
+      development of a new system forlive programming exercises grading.
+    location: Paris
+    startDate: 2018-09-01
+
+  - name: Software Engineer Intern at Siemens
+    text: >
+      Created a new application for processing multiple real-time image feeds with GPU intensive
+      algorithms in a distributed manner, using C++ and Python.
+    location: Princeton
+    startDate: 2018-09-01
+    endDate: 2019-02-01
+
+  - name: Software Engineer Intern at Logilab
+    text: >
+      Creation of a web-embedded semantic data navigator.
+      Implemented as a Web Extension, using the
+      extension API, with TypeScript and React.
+    location: Oaris
+    startDate: 2017-06-01
+    endDate: 2017-08-01
+
